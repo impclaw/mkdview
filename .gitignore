@@ -1,0 +1,4 @@
+obj
+*.pro
+.qmake.stash
+mkdview
